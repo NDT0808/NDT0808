@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center" style="color: #38bdf8;">Hello Everyone ! 👋</h1>
 
-<!--
-**NDT0808/NDT0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌱 I'm currently learning <strong>VLU</strong><br><br>
+  💬 Ask me about <strong>NLP</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+<br>
+
+<h3 align="center">🛠 Languages-Frameworks-Tools 🛠</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,sqlite,pytorch,tensorflow" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,vscode,stackoverflow,pycharm" />
+</p>
