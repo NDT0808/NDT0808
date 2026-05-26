@@ -2,8 +2,6 @@
 
 ### Computer Vision/AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/NDT0808&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/NDT0808" /> </p>
-
 - 🌱 I'm currently learning **SGU**
 
 - 💬 Ask me about **Computer vision**
@@ -14,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/NDT0808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/NDT0808" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%E1%BB%A9c-tr%E1%BB%8Dng-b9545b35a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%E1%BB%A9c-tr%E1%BB%8Dng-b9545b35a/" height="30" width="40" /></a>
 <a href="https://discord.gg/893472805423812628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="893472805423812628" height="30" width="40" /></a>
 </p>
