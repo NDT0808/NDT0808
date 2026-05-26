@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-  🌱 I'm currently learning <strong>VLU</strong><br><br>
-  💬 Ask me about <strong>NLP</strong>
+  🌱 I'm currently learning <strong>SGU</strong><br><br>
+  💬 Ask me about <strong>Computer Vision</strong>
 </p>
 
 <br>
